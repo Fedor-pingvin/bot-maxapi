@@ -84,11 +84,13 @@ docker stop ИМЯ_ИЛИ_ID
 Если хочешь запустить проект локально без контейнера:
 
 ```bash
+$env:BOT_TOKEN = "токен_бота"
 python -m venv venv
-source venv/bin/activate    # или venv\Scripts\activate на Windows
+.\venv\Scripts\Activate.ps1
 pip install --upgrade pip
 pip install -r requirements.txt
 python main.py
+
 ```
 
 ***
