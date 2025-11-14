@@ -1,0 +1,8 @@
+maxapi==0.9.7
+pandas==2.2.3
+DateTime==5.5
+aiohttp==3.13.2
+nest-asyncio==1.6.0
+matplotlib==3.10.1
+matplotlib-inline==0.1.7
+dotenv == 0.9.9
