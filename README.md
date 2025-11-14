@@ -1,5 +1,5 @@
 # bot-maxapi
-A hackathon bot from the Max messenger in Python using the maxapi library
+A hackathon bot from the Max messenger in Python using the maxapi library. Hackathon team 82. https://max.ru/t82_hakaton_bot
 
 # Запуск 
 
@@ -105,7 +105,7 @@ python main.py
 
 # О самом боте
 
-Бот создавался в рамках хакатона от MAX и VK Education. Трек «Эффективность»: разработка сервисов продуктивности. 
+Бот создавался в рамках хакатона от MAX и VK Education. Трек «Эффективность»: разработка сервисов продуктивности. Хакатон 82: https://max.ru/t82_hakaton_bot
 Бот представляет из себя планировщика задач и заметчика. Позваляет писать планы и заметки, хронит всю информацию, напоминает планы и какие-то заметки. 
 
 **Основные команды:**
